@@ -1,9 +1,9 @@
 ### Hi there 👋 Sujith Sai Kalakonda
 
-👋 Hi, I'm Sujith Sai Kalakonda!
-🎯 AI Engineer | Neural Networks & Generative AI Enthusiast
-🔬 Passionate about Deep Learning, NLP, and AI-driven applications
-💡 Deeply interested in understanding backend flow and architecture
+👋 Hi, I'm Sujith Sai Kalakonda! <br>
+🎯 AI Engineer | Neural Networks & Generative AI Enthusiast <br>
+🔬 Passionate about Deep Learning, NLP, and AI-driven applications <br>
+💡 Deeply interested in understanding backend flow and architecture <br>
 🚀 Currently Building ChatwithCHAI | Exploring FastAPI, LLMs, and Database | Learning how to make end to end applications from this simple application.
 
 #### 🧠 About Me
