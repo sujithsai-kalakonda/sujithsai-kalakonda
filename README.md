@@ -27,9 +27,6 @@
   
   ##### Frontend (I have very surface level knowledge on this topic): <br>
   🔹 React.js | JavaScript (ES6) | HTML/CSS <br>
-  
 
-📫 Let's Connect! <br>
-🔗 GitHub: sujithsai-kalakonda <br>
 
 Always excited to collaborate on AI & backend projects! 🚀
